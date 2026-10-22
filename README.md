@@ -1,3 +1,5 @@
+> **This project's home is now [github.com/globe-teck/agent-shell-secret-mask](https://github.com/globe-teck/agent-shell-secret-mask).** This copy stays up for existing links. Please open issues and pull requests there.
+
 # agent-shell-secret-mask
 
 [![CI](https://github.com/leighsrodney-prog/agent-shell-secret-mask/actions/workflows/ci.yml/badge.svg)](https://github.com/leighsrodney-prog/agent-shell-secret-mask/actions/workflows/ci.yml)
